@@ -34,11 +34,13 @@ h1 {
 }
 
 #social-media {
-	padding-right: 10%;
+	/*position: absolute;*/
+	margin-right: -40%;
 	padding-top: 2%;
 	font-size: 1em;
 	float: right;
 	opacity: .8;
+	z-index: 0;
 }
 
 #profile {
