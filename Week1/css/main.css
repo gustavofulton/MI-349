@@ -4,7 +4,10 @@ body {
   margin: auto;
   overflow: hidden;
   font-family: 'Indie Flower', Helvetica,Arial,sans-serif;
-  background: #ccc;
+}
+
+video {
+	position: relative;
 }
 
 header {
@@ -16,7 +19,7 @@ header {
 
 .container {
 	position: absolute;
-	margin-top: 8%;
+	margin-top: 5%;
 	margin-left: 20%;
 	width: 60%;
 	padding: 10px;
@@ -56,4 +59,3 @@ h2 {
 	height: 80%;
 	float: left;
 }
-
