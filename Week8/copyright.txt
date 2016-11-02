@@ -1,0 +1,13 @@
+Copyright Drafts
+
+Main page
+  Welcome to my Personal Website! Here you will find all information about me: what I love, hate and am passionate about. Hope you enjoy it.
+
+About
+  I am a Junior Computer Science student at Michigan State University with a minor in Game Design. I am really passionate with front-end and back-end development, but my hobbies are pretty eclectic! Besides the times I'm siting on the computer coding or playing games, I am either playing music or reading some really interesting book! Also, nature is my best friend.
+
+Portfolio
+  Although this section is still almost empty, it's in development and soon I hope to post more cool stuff in here! Here you can find some hackathon projects, personal projects as well as small games I made.
+
+Contact
+  Here is my personal contact if you wanna get in touch with me. If you have any suggestions, critiques or just wanna chat, you can add me on LinkedIn https://www.linkedin.com/in/gustavo-fulton-9717a2b6
